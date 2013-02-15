@@ -1,4 +1,4 @@
 tmbundles
 =========
 
-tmbundles I use.
+A list of tmbundles I use in Textmate2 and chocolate.
